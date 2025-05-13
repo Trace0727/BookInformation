@@ -6,13 +6,14 @@ A concise Java console app that asks the user for details about a standard book 
 
 ## Project Structure
 
+```
 BookInformation/  
 ├── src/  
 │   ├── Book.java  
 │   ├── Encyclopedia.java  
 │   └── BookInformation.java   ← main class (run this)  
 └──
-
+```
 
 
 ## Core Java Classes
